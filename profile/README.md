@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# 菜狗狗
+# 菜狗狗 VegetableDoggie
 
 > 宗旨: 不要重复造业务轮子。
 
