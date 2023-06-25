@@ -11,6 +11,10 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# VegetableDoggie
+# 菜狗狗
 
-业务代码开源，不要重复造业务轮子。
+> 宗旨: 不要重复造业务轮子。
+
+## 家人们，谁懂啊!
+
+业务相关的PR申请总是被各开源组织驳回，可怜，55555555... 
