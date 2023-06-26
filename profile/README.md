@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# 小菜狗 VegetableDoggie
+# VegetableDoggie
 
 > 信仰: 狗狗教和圣火喵喵教
 
