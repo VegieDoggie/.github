@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+狗狗神和喵喵神会永远庇护你!
 <!--
 
 **Here are some ideas to get you started:**
@@ -12,8 +12,6 @@
 -->
 
 # 小菜狗 VegetableDoggie
-
-> 宗旨: 不要重复造业务轮子。
 
 > 信仰: 狗狗教和圣火喵喵教
 
