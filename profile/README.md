@@ -60,4 +60,4 @@
 - 你可以，在任何我能知道你的地方告诉我，我会拉你
 - 你可以，直接加我的微信: Nil1one，我会拉你
 - 你可以，加入微信社区群: 
-- ![微信开源社区群](./vd.jpg)
+- ![微信开源社区群](https://github.com/VegetableDoggie/.github/blob/main/profile/vd.jpg)
